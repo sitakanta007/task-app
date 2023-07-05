@@ -1,3 +1,3 @@
-# task-app
-Source link - https://github.com/laravel/quickstart-intermediate
-Modified to make tasks as micro services and use external api URL.
+# Laravel Quickstart - Intermediate - Task List With Authentication
+
+https://laravel.com/docs/5.2/quickstart-intermediate
